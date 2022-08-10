@@ -1,0 +1,40 @@
+[thr=  3] hello from thr_func; id =   3 [overa=20]
+x = 80.000000 (+80.000000)
+[thr=  4] hello from thr_func; id =   4 [overa=20]
+x = 180.000000 (+100.000000)
+[thr=  5] hello from thr_func; id =   5 [overa=20]
+x = 300.000000 (+120.000000)
+[thr=  9] hello from thr_func; id =   9 [overa=20]
+x = 500.000000 (+200.000000)
+[thr=  6] hello from thr_func; id =   6 [overa=20]
+x = 640.000000 (+140.000000)
+[thr=  8] hello from thr_func; id =   8 [overa=20]
+x = 820.000000 (+180.000000)
+[thr=  7] hello from thr_func; id =   7 [overa=20]
+x = 980.000000 (+160.000000)
+[thr= 16] hello from thr_func; id =  16 [overa=20]
+x = 1320.000000 (+340.000000)
+[thr=  2] hello from thr_func; id =   2 [overa=20]
+x = 1380.000000 (+60.000000)
+[thr=  1] hello from thr_func; id =   1 [overa=20]
+x = 1420.000000 (+40.000000)
+[thr=  0] hello from thr_func; id =   0 [overa=20]
+x = 1440.000000 (+20.000000)
+[thr= 10] hello from thr_func; id =  10 [overa=20]
+x = 1660.000000 (+220.000000)
+[thr= 11] hello from thr_func; id =  11 [overa=20]
+x = 1900.000000 (+240.000000)
+[thr= 12] hello from thr_func; id =  12 [overa=20]
+x = 2160.000000 (+260.000000)
+[thr= 13] hello from thr_func; id =  13 [overa=20]
+x = 2440.000000 (+280.000000)
+[thr= 14] hello from thr_func; id =  14 [overa=20]
+x = 2740.000000 (+300.000000)
+[thr= 15] hello from thr_func; id =  15 [overa=20]
+x = 3060.000000 (+320.000000)
+[thr= 17] hello from thr_func; id =  17 [overa=20]
+x = 3420.000000 (+360.000000)
+[thr= 18] hello from thr_func; id =  18 [overa=20]
+x = 3800.000000 (+380.000000)
+[thr= 19] hello from thr_func; id =  19 [overa=20]
+x = 4200.000000 (+400.000000)

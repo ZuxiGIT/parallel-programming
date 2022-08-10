@@ -1,0 +1,140 @@
+[thr=  3]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr=  3]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr=  3]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr=  3]Scheduling policy   = SCHED_OTHER
+[thr=  3]Scheduling priority = 0
+[thr=  3]Guard size          = 4096 bytes
+---------------------------------------------
+[thr=  4]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr=  4]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr=  4]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr=  4]Scheduling policy   = SCHED_OTHER
+[thr=  4]Scheduling priority = 0
+[thr=  4]Guard size          = 4096 bytes
+---------------------------------------------
+[thr=  5]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr=  5]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr=  5]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr=  5]Scheduling policy   = SCHED_OTHER
+[thr=  5]Scheduling priority = 0
+[thr=  5]Guard size          = 4096 bytes
+---------------------------------------------
+[thr=  6]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr=  6]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr=  6]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr=  6]Scheduling policy   = SCHED_OTHER
+[thr=  6]Scheduling priority = 0
+[thr=  6]Guard size          = 4096 bytes
+---------------------------------------------
+[thr=  7]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr=  7]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr=  7]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr=  7]Scheduling policy   = SCHED_OTHER
+[thr=  7]Scheduling priority = 0
+[thr=  7]Guard size          = 4096 bytes
+---------------------------------------------
+[thr=  8]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr=  8]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr=  8]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr=  8]Scheduling policy   = SCHED_OTHER
+[thr=  8]Scheduling priority = 0
+[thr=  8]Guard size          = 4096 bytes
+---------------------------------------------
+[thr=  9]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr=  9]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr=  9]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr=  9]Scheduling policy   = SCHED_OTHER
+[thr=  9]Scheduling priority = 0
+[thr=  9]Guard size          = 4096 bytes
+---------------------------------------------
+[thr= 10]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr= 10]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr= 10]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr= 10]Scheduling policy   = SCHED_OTHER
+[thr= 10]Scheduling priority = 0
+[thr= 10]Guard size          = 4096 bytes
+---------------------------------------------
+[thr= 11]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr= 11]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr= 11]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr= 11]Scheduling policy   = SCHED_OTHER
+[thr= 11]Scheduling priority = 0
+[thr= 11]Guard size          = 4096 bytes
+---------------------------------------------
+[thr= 12]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr= 12]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr= 12]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr= 12]Scheduling policy   = SCHED_OTHER
+[thr= 12]Scheduling priority = 0
+[thr= 12]Guard size          = 4096 bytes
+---------------------------------------------
+[thr= 13]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr= 13]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr= 13]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr= 13]Scheduling policy   = SCHED_OTHER
+[thr= 13]Scheduling priority = 0
+[thr= 13]Guard size          = 4096 bytes
+---------------------------------------------
+[thr= 14]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr= 14]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr= 14]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr= 14]Scheduling policy   = SCHED_OTHER
+[thr= 14]Scheduling priority = 0
+[thr= 14]Guard size          = 4096 bytes
+---------------------------------------------
+[thr= 15]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr= 15]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr= 15]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr= 15]Scheduling policy   = SCHED_OTHER
+[thr= 15]Scheduling priority = 0
+[thr= 15]Guard size          = 4096 bytes
+---------------------------------------------
+[thr= 16]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr= 16]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr= 16]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr= 16]Scheduling policy   = SCHED_OTHER
+[thr= 16]Scheduling priority = 0
+[thr= 16]Guard size          = 4096 bytes
+---------------------------------------------
+[thr= 17]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr= 17]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr= 17]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr= 17]Scheduling policy   = SCHED_OTHER
+[thr= 17]Scheduling priority = 0
+[thr= 17]Guard size          = 4096 bytes
+---------------------------------------------
+[thr= 18]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr= 18]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr= 18]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr= 18]Scheduling policy   = SCHED_OTHER
+[thr= 18]Scheduling priority = 0
+[thr= 18]Guard size          = 4096 bytes
+---------------------------------------------
+[thr= 19]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr= 19]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr= 19]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr= 19]Scheduling policy   = SCHED_OTHER
+[thr= 19]Scheduling priority = 0
+[thr= 19]Guard size          = 4096 bytes
+---------------------------------------------
+[thr=  1]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr=  1]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr=  1]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr=  1]Scheduling policy   = SCHED_OTHER
+[thr=  1]Scheduling priority = 0
+[thr=  1]Guard size          = 4096 bytes
+---------------------------------------------
+[thr=  0]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr=  0]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr=  0]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr=  0]Scheduling policy   = SCHED_OTHER
+[thr=  0]Scheduling priority = 0
+[thr=  0]Guard size          = 4096 bytes
+---------------------------------------------
+[thr=  2]Detach state        = PTHREAD_CREATE_JOINABLE
+[thr=  2]Scope               = PTHREAD_SCOPE_SYSTEM
+[thr=  2]Inherit scheduler   = PTHREAD_INHERIT_SCHED
+[thr=  2]Scheduling policy   = SCHED_OTHER
+[thr=  2]Scheduling priority = 0
+[thr=  2]Guard size          = 4096 bytes
+---------------------------------------------

@@ -1,0 +1,25 @@
+[rank=0] commsize = 6
+
+[rank=0] ellapsed time: 0.001568 seconds
+[rank=0] dx = 0.100000, dt = 0.050000
+[rank=0] count_t = 21, count_x = 11
+[rank=0] max error: 115.27562272
+
+
+[rank=0] ellapsed time: 0.011776 seconds
+[rank=0] dx = 0.010000, dt = 0.005000
+[rank=0] count_t = 201, count_x = 101
+[rank=0] max error: 0.00002500
+
+
+[rank=0] ellapsed time: 0.157492 seconds
+[rank=0] dx = 0.001000, dt = 0.000500
+[rank=0] count_t = 2001, count_x = 1001
+[rank=0] max error: 0.00000025
+
+
+[rank=0] ellapsed time: 5.695447 seconds
+[rank=0] dx = 0.000100, dt = 0.000050
+[rank=0] count_t = 20001, count_x = 10001
+[rank=0] max error: 0.00000000
+

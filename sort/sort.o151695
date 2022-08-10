@@ -1,0 +1,56 @@
+[rank = 0] commsize = 1, N = 10
+[rank = 0] ellapsed time 0.000035 seconds
+[rank = 0] commsize = 1, N = 100
+[rank = 0] ellapsed time 0.000047 seconds
+[rank = 0] commsize = 1, N = 1000
+[rank = 0] ellapsed time 0.000319 seconds
+[rank = 0] commsize = 1, N = 10000
+[rank = 0] ellapsed time 0.003318 seconds
+[rank = 0] commsize = 1, N = 100000
+[rank = 0] ellapsed time 0.040054 seconds
+[rank = 0] commsize = 1, N = 1000000
+[rank = 0] ellapsed time 0.433129 seconds
+[rank = 0] commsize = 1, N = 10000000
+[rank = 0] ellapsed time 5.067566 seconds
+[rank = 0] commsize = 2, N = 10
+[rank = 0] ellapsed time 0.000090 seconds
+[rank = 0] commsize = 2, N = 100
+[rank = 0] ellapsed time 0.000137 seconds
+[rank = 0] commsize = 2, N = 1000
+[rank = 0] ellapsed time 0.000218 seconds
+[rank = 0] commsize = 2, N = 10000
+[rank = 0] ellapsed time 0.001791 seconds
+[rank = 0] commsize = 2, N = 100000
+[rank = 0] ellapsed time 0.019769 seconds
+[rank = 0] commsize = 2, N = 1000000
+[rank = 0] ellapsed time 0.208632 seconds
+[rank = 0] commsize = 2, N = 10000000
+[rank = 0] ellapsed time 2.480916 seconds
+[rank = 0] commsize = 3, N = 10
+[rank = 0] ellapsed time 0.000106 seconds
+[rank = 0] commsize = 3, N = 100
+[rank = 0] ellapsed time 0.000106 seconds
+[rank = 0] commsize = 3, N = 1000
+[rank = 0] ellapsed time 0.000261 seconds
+[rank = 0] commsize = 3, N = 10000
+[rank = 0] ellapsed time 0.001472 seconds
+[rank = 0] commsize = 3, N = 100000
+[rank = 0] ellapsed time 0.015018 seconds
+[rank = 0] commsize = 3, N = 1000000
+[rank = 0] ellapsed time 0.174166 seconds
+[rank = 0] commsize = 3, N = 10000000
+[rank = 0] ellapsed time 1.869971 seconds
+[rank = 0] commsize = 4, N = 10
+[rank = 0] ellapsed time 0.000288 seconds
+[rank = 0] commsize = 4, N = 100
+[rank = 0] ellapsed time 0.000298 seconds
+[rank = 0] commsize = 4, N = 1000
+[rank = 0] ellapsed time 0.000372 seconds
+[rank = 0] commsize = 4, N = 10000
+[rank = 0] ellapsed time 0.001445 seconds
+[rank = 0] commsize = 4, N = 100000
+[rank = 0] ellapsed time 0.012306 seconds
+[rank = 0] commsize = 4, N = 1000000
+[rank = 0] ellapsed time 0.125801 seconds
+[rank = 0] commsize = 4, N = 10000000
+[rank = 0] ellapsed time 1.459445 seconds

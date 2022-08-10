@@ -1,0 +1,5 @@
+[rank=0] my rank is 0
+[rank=0] Begun at 1648655033.961427 seconds [N = 100000]
+[rank=1] my rank is 1
+[rank=0] Ended at 1648655034.127380 seconds
+[rank=0] Ellapsed time: 0.165953 seconds [1205161.071579 msg/s]

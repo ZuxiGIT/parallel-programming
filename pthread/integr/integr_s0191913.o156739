@@ -1,0 +1,27 @@
+[thr=  3] filling global stack with bad values to stop threads
+[thr=  3] 	local_stack:  pushed: 343522716 times; poped 343522716 times;
+		global_stack: pushed: 264 times; poped 2 times; res = 11473.780424
+		[Wall time] ellapsed 2 minutes 18 seconds
+		counted 343522457 times
+[thr=  0] 	local_stack:  pushed: 340328204 times; poped 340328204 times;
+		global_stack: pushed: 60 times; poped 144 times; res = 12613.214651
+		[Wall time] ellapsed 2 minutes 18 seconds
+		counted 340328287 times
+[thr=  2] 	local_stack:  pushed: 347754098 times; poped 347754098 times;
+		global_stack: pushed: 40 times; poped 104 times; res = 13166.363439
+		[Wall time] ellapsed 2 minutes 18 seconds
+		counted 347754161 times
+[thr=  1] 	local_stack:  pushed: 345908028 times; poped 345908028 times;
+		global_stack: pushed: 20 times; poped 135 times; res = 12744.879502
+		[Wall time] ellapsed 2 minutes 18 seconds
+		counted 345908142 times
+
+
+[CPU time] ellapsed 9 minutes 6 seconds
+[Wall time] ellapsed 2 minutes 18 seconds
+number of threads: 4
+eps: 2.000000; start: 0.000010; finish: 1.000000
+res = 49998.238015
+SPK = 20
+
+

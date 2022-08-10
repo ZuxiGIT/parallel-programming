@@ -1,0 +1,8 @@
+[rank=0] Sent string "TestString" to rank 1
+[rank=0] Received string "TestString"
+[rank=1] Received string "TestString"
+[rank=1] Sent string "TestString" to rank 2
+[rank=2] Received string "TestString"
+[rank=2] Sent string "TestString" to rank 3
+[rank=3] Received string "TestString"
+[rank=3] Sent string "TestString" to rank 0

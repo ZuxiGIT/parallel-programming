@@ -1,0 +1,7 @@
+[rank=1] My range is (0, 500000]
+[rank=2] My range is (500000, 1000000]
+[rank=2] Sent "0.693147" to rank 0
+[rank=0] Got number "13.699580" from rank 1
+[rank=0] Got number "0.693147" from rank 2
+[rank=0] Result is "14.392727"
+[rank=1] Sent "13.699580" to rank 0

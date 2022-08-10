@@ -1,0 +1,9 @@
+[rank=2] window was created [wind=20958432]
+[rank=3] window was created [wind=17906832]
+[rank=0] window was created [wind=38907152]
+[rank=1] window was created [wind=25988320]
+[rank=2] Sent number "5" to rank 3
+[rank=1] Sent number "3" to rank 2
+[rank=3] Sent number "7" to rank 0
+[rank=0] Sent number "1" to rank 1
+res = "7"
